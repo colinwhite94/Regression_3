@@ -1,0 +1,2 @@
+# Regression_3
+City water planners need to accurately predict the amount of runoff to plan for the city’s water needs. We are trying to determine if snowfall (precipitation) can be an accurate predictor of runoff. To be able to do this we need to know if the data will pass the assumptions for a SLR model (LINE assumptions). If the data passes the LINE assumptions, we can fit a SLR model to the data and be able to predict runoff with precipitation.
